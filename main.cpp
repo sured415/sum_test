@@ -15,4 +15,5 @@ int main() {
 	else c = 0;
 
 	cout << c << endl;
+	return 0;
 }
